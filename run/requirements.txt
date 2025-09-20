@@ -1,0 +1,8 @@
+functions-framework==3.4.0
+flask==2.3.3
+google-cloud-language==2.10.1
+google-cloud-firestore==2.13.1
+google-cloud-speech==2.21.0
+google-cloud-texttospeech==2.14.1
+google-cloud-translate==3.12.1
+numpy==1.24.3
